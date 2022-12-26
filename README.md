@@ -23,3 +23,20 @@ Template Project for starting up CRUD API with Django Rest Framework
 - Run makemigrations and migrate commands
 - Run `collectstatic` if needed.
 - Optional: Update `api_tester.py`
+
+
+- ## Deploy link on heruku:
+![deploy link](https://cookie-stands-project.herokuapp.com/)
+
+- ## admin path:
+![admin path](https://cookie-stands-project.herokuapp.com/admin/login/?next=/admin/)
+
+- ## List path:
+![list path](https://cookie-stands-project.herokuapp.com/api/v1/cookie_stands/)
+
+- | Role | UserName | Paasword |
+  |------|----------|----------|
+  |superuser | admin    | admin12345 |
+  |staff | Ihab     | 1234ihab |
+  |staff | Bayan    | bushnaq1234 |
+  |user  | mohammad | mh123456 |
