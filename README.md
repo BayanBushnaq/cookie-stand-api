@@ -26,13 +26,13 @@ Template Project for starting up CRUD API with Django Rest Framework
 
 
 - ## Deploy link on heruku:
-[deploy link](https://cookie-stands-project.herokuapp.com/)
+    [deploy link](https://cookie-stands-project.herokuapp.com/)
 
 - ## admin path:
-[admin path](https://cookie-stands-project.herokuapp.com/admin/login/?next=/admin/)
+    [admin path](https://cookie-stands-project.herokuapp.com/admin/login/?next=/admin/)
 
 - ## List path:
-[list path](https://cookie-stands-project.herokuapp.com/api/v1/cookie_stands/)
+    [list path](https://cookie-stands-project.herokuapp.com/api/v1/cookie_stands/)
 
 - | Role | UserName | Paasword |
   |------|----------|----------|
